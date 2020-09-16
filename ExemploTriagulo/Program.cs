@@ -37,8 +37,8 @@ namespace Course
             }
         }
     }/*Conceitos IMPORTANTES para utilizar CLASSES, OBJETOS e ATRIBUTOS
-      para difinir uma classe para um OBJETO (triagulo) do problema exemplo
-      para que organização fique mais nítida dispençando a necessidade de
+      para definir uma classe para um OBJETO (triagulo) do problema exemplo
+      para que a organização fique mais nítida dispençando a necessidade de
       se utilizar diversas variáveis soltas no código. Aprendendo também como
       criar uma classe (TRIAGULO) e utiliza-la para atribuir variáveis desse
       programa para dentro dessa classe.
