@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\bin\Debug\netcoreapp3.1\ExemploTriagulo.exe
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\bin\Debug\netcoreapp3.1\ExemploTriagulo.deps.json
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\bin\Debug\netcoreapp3.1\ExemploTriagulo.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\bin\Debug\netcoreapp3.1\ExemploTriagulo.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\bin\Debug\netcoreapp3.1\ExemploTriagulo.dll
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\bin\Debug\netcoreapp3.1\ExemploTriagulo.pdb
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\obj\Debug\netcoreapp3.1\ExemploTriagulo.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\obj\Debug\netcoreapp3.1\ExemploTriagulo.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\obj\Debug\netcoreapp3.1\ExemploTriagulo.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\obj\Debug\netcoreapp3.1\ExemploTriagulo.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\obj\Debug\netcoreapp3.1\ExemploTriagulo.dll
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\obj\Debug\netcoreapp3.1\ExemploTriagulo.pdb
+C:\ProgramasCSharp\ConceitoDeClasses\ExemploTriagulo\ExemploTriagulo\obj\Debug\netcoreapp3.1\ExemploTriagulo.genruntimeconfig.cache
